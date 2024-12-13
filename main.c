@@ -1,6 +1,6 @@
 #include <stdio.h>
-// #include"D:\Project\C\shreyas.h"
-#include<shreyas.h>
+// #include"D:\Project\C\banks.h"
+#include<banks.h>
 
 int main() {
     int choice;
